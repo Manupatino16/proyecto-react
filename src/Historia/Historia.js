@@ -1,9 +1,11 @@
+import './Historia.css'
+import { Carousel } from '../Carousel/Carousel.js'
 export function Historia (){
     
     return(
         <>
 
-            <h1>HOLA ME LLAMO HISTORIA Y SOY UN COMPONENTE</h1>
+            <Carousel></Carousel>
         
         </>
     )
