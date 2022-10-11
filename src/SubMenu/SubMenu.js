@@ -5,9 +5,7 @@ export function SubMenu(){
           <div className="container">
             <div className="row text-center">
                 <div className="col-12 col-md-4 border p-3">
-                    <i className="bi bi-file-earmark-music-fill fs-1 my-2">
-                        
-                    </i>
+                    <i className="bi bi-file-earmark-music-fill fs-1 my-2"></i>
                 </div>
                 <div className="col-12 col-md-4 border p-3">
                     <i className="bi bi-book-fill fs-1 my-2"></i>
