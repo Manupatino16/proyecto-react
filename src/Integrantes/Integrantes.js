@@ -19,7 +19,7 @@ export function Integrantes (){
                 </div>
                 <div className='col-12 col-md-4 align-self-center border-start animate__animated animate__backInLeft wow'>
                     <h2>Damon Albarn</h2>
-                    <h3>Vocalista</h3>
+                    <h3>Musico</h3>
                 </div>
                 <div className="row mt-2">
                     <div className="col-12">
@@ -33,7 +33,7 @@ export function Integrantes (){
             </div>
 
             <div className="row my-5 justify-content-center">
-                <div className='col-12 col-md-4 align-self-center border-end  animate__animated animate__backInRight wow'>
+                <div className='col-12 col-md-4 align-self-center border-end text-end animate__animated animate__backInRight wow'>
                     <h2>Jamie Hewlett</h2>
                     <h3>Historietista</h3>
                 </div>
@@ -70,7 +70,7 @@ export function Integrantes (){
             </div>
 
             <div className="row my-5 justify-content-center">
-                <div className='col-12 col-md-4 align-self-center border-end  animate__animated animate__backInRight wow'>
+                <div className='col-12 col-md-4 align-self-center border-end text-end animate__animated animate__backInRight wow'>
                     <h2>Noodle</h2>
                     <h3>Guitarrista</h3>
                 </div>
@@ -107,7 +107,7 @@ export function Integrantes (){
             </div>
 
             <div className="row my-5 justify-content-center">
-                <div className='col-12 col-md-4 align-self-center border-end  animate__animated animate__backInRight wow'>
+                <div className='col-12 col-md-4 align-self-center border-end text-end animate__animated animate__backInRight wow'>
                     <h2>Russel Hobbs</h2>
                     <h3>Baterista</h3>
                 </div>

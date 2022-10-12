@@ -28,32 +28,32 @@ export function Musicos(){
         {
             fecha:"22 de marzo de 2001",
             país:"Reino Unido",
-            descripción:"Hoy, al menos esta noche, toca abstraerse de este extraño contexto social que nos ha tocado vivir. Mediante un tuneado DeLorean, desde Binaural os invitamos a viajar atrás en el tiempo para asistir al primer concierto oficial de toda la historia de Gorillaz. Esto aconteció un 22 de marzo de 2001 en la sala Scala londinense, y sirvió a sus recién llegados fans para gozar en absoluta primicia de algunos de los imponentes, y un tanto revolucionarios cortes, que iban a acabar vertebrando aquella gema homónima del trip hop dosmilero.",
-            foto:"https://firebasestorage.googleapis.com/v0/b/react-proyecto-8c9f3.appspot.com/o/concierto1.jpg?alt=media&token=138ea756-dbc6-4380-9e95-611e8ba45577",
+            descripción:"Mediante un tuneado DeLorean, desde Binaural os invitamos a viajar atrás en el tiempo para asistir al primer concierto oficial de toda la historia de Gorillaz. Esto aconteció un 22 de marzo de 2001 en la sala Scala londinense, y sirvió a sus recién llegados fans para gozar en absoluta primicia de algunos de los imponentes, y un tanto revolucionarios cortes, que iban a acabar vertebrando aquella gema homónima del trip hop dosmilero.",
+            foto:"https://firebasestorage.googleapis.com/v0/b/react-proyecto-8c9f3.appspot.com/o/concierto1.jpg?alt=media&token=bbce3431-21bf-4e39-89de-cd621a7adfb7",
         },
         {
             fecha:"27 de marzo de 2006",
             país:"Inglaterra",
-            descripción:"Demon Days Live at the Manchester Opera House es un DVD en vivo de la banda virtual, Gorillaz. Compila las presentaciones del 1 de noviembre al 5 de noviembre del año 2005, en la Manchester Opera House​ donde se interpretó el álbum Demon Days. Fue dirigido por David Barnard y Grant Gee.Casi todos los intérpretes del álbum pudieron participar en el evento, incluyendo a Neneh Cereza, Bootie Brown, Shaun Ryder e Ike Turner. MF HADO y Dennis Hoopper aparecieron a través de vídeo y audio, respectivamente. Coros locales de Mánchester fueron contratados para las presentaciones.Fueron incluidas las canciones: Hong Kong, la cual fue escrita para la War Child y pertenece al álbum Help!: A Day in the Life; y Latin Simone (¿Qué Pasa Contigo?) del álbum Gorillaz, añadido como tributo a la memoria de Ibrahim Ferrer, quién falleció ese año.",
+            descripción:"Demon Days Live at the Manchester Opera House es un DVD en vivo de la banda virtual, Gorillaz. Compila las presentaciones del 1 de noviembre al 5 de noviembre del año 2005, en la Manchester Opera House​ donde se interpretó el álbum Demon Days. Fue dirigido por David Barnard y Grant Gee.Casi todos los intérpretes del álbum pudieron participar en el evento, incluyendo a Neneh Cereza, Bootie Brown, Shaun Ryder e Ike Turner.",
             foto:"https://firebasestorage.googleapis.com/v0/b/react-proyecto-8c9f3.appspot.com/o/concierto2.jpg?alt=media&token=b19de5b9-06c8-413a-a258-e42ba605ac72",
         },
         {
-            fecha:"",
-            país:"",
-            descripción:"",
-            foto:"",
+            fecha:"3 de octubre de 2010",
+            país:"Canadá",
+            descripción:"El Escape to Plastic Beach Tour fue una gira de conciertos de la banda virtual británica de rock alternativo Gorillaz . La gira fue en apoyo de su tercer álbum de estudio Plastic Beach . En particular, fue la primera gira mundial de la banda en su década de historia. Durante la gira, Damon Albarn grabó The Fall , descrito por Albarn como un diario de su experiencia durante la etapa estadounidense de la gira.",
+            foto:"https://firebasestorage.googleapis.com/v0/b/react-proyecto-8c9f3.appspot.com/o/concierto3.jpg?alt=media&token=ea9bef3a-1997-4cc6-9e7e-bd2834c38f8e",
         },
         {
-            fecha:"",
-            país:"",
-            descripción:"",
-            foto:"",
+            fecha:"24 de Octubre de 2018",
+            país:"México",
+            descripción:"Inmediatamente después de su nuevo álbum, Gorillaz ha anunciado que traerá The Now Now Tour a América del Norte este otoño, que culminará con el debut en los Estados Unidos del Festival Demon Dayz de Gorillaz, descrito por The Guardian como el apocalipsis alegre... y el festival carnavalesco. de grandes actuaciones”. Demon Dayz LA estará compuesto por invitados especiales y colaboradores del círculo privado y extendido de amigos de Gorillaz.",
+            foto:"https://firebasestorage.googleapis.com/v0/b/react-proyecto-8c9f3.appspot.com/o/concierto4.webp?alt=media&token=51736820-60e8-4206-9e28-706e13628b0d",
         },
         {
-            fecha:"",
-            país:"",
-            descripción:"",
-            foto:"",
+            fecha:"12 de diciembre de 2020",
+            país:"Australia",
+            descripción:"Song Machine Tour fue una breve gira de conciertos en vivo de Gorillaz. Comenzó con las presentaciones en línea de Song Machine Live el 12 y 13 de diciembre de 2020. La gira es en apoyo de su séptimo álbum, Song Machine, Season One: Strange Timez. A diferencia de Song Machine Live, el resto de conciertos fue presencial. La mayoría de los espectáculos se cancelaron o se trasladaron a Gorillaz World Tour 2022 debido a las limitaciones de la pandemia de COVID-19.",
+            foto:"https://firebasestorage.googleapis.com/v0/b/react-proyecto-8c9f3.appspot.com/o/concierto5.webp?alt=media&token=5f7372b2-d27d-4505-b1bf-eb38662ab817",
         }
     ]
 
