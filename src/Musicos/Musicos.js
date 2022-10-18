@@ -65,7 +65,7 @@ export function Musicos(){
                     return(
                         <>
                         <div className="col">
-                            <div className="card h-100">
+                            <div className="card h-100 bg-dark text-white mt-3">
                             <img src={musico.url} className="img-fluid w-100 h-100" alt="foto"/>
                             <h1 className="text-center">{musico.nombre}</h1>
                             <h2 className="text-center">{musico.rol}</h2>
@@ -81,7 +81,7 @@ export function Musicos(){
                     return(
                         <>
                         <div className="col">
-                            <div className="card h-100">
+                            <div className="card h-100 mt-3">
                             <img src={conciertoMemorable.foto} className="img-fluid w-100 h-100" alt="foto"/>
                             <h3 className="text-center">{conciertoMemorable.fecha}</h3>
                             <h2 className="text-center">{conciertoMemorable.país}</h2>
